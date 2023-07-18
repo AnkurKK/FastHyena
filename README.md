@@ -1,2 +1,2 @@
-# FastHyna
+# FastHyena
 A-news-website 
